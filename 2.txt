@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "the final fantasy in the 4.txt file". branch_3
+=======
+"the final fantasy in the 4.txt file".
+>>>>>>> 3fc1593a4cefac5ddde70252c21838c5a13b7500
